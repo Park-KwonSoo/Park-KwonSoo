@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Park-KwonSoo
 - 👀 I’m interested in Web and IOS, IOT
-- 🌱 I’m currently learning Django, Mqtt Protocol, Raspberry an also.
+- 🌱 I’m currently learning Djagno, Java, Spring Boot.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email (redbean096@khu.ac.kr)
 

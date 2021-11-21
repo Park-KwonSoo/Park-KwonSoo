@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Park-KwonSoo
-- 👀 I’m interested in Web and IOS, IOT
-- 🌱 I’m currently learning Djagno, Java, Spring Boot.
+- 👀 I’m interested in Server and Client, IOT
+- 🌱 I’m currently learning Golang, gRPC, Spring Boot.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email (redbean096@khu.ac.kr)
 
